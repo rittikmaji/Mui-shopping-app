@@ -1,0 +1,25 @@
+.footer-component{
+    position:relative;
+      padding: 10px;
+      bottom: 0;
+      width: 100%;
+      background-color: rgb(45, 110, 239);
+      /* margin-top: 5px; */
+    }
+    
+    
+    .footer-container{
+      display: flex;
+      margin: 1%;
+    }
+    
+    .footer-container p{
+     position: relative;
+     /* bottom: 15px; */
+     left: 47%;
+     /* right: 176px;
+     display: flex; */
+     color: white;
+     margin-bottom: 5px;
+    
+    }
